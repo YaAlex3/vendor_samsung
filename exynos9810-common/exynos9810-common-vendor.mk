@@ -119,6 +119,7 @@ PRODUCT_PACKAGES += \
     libwvhidl \
     libaudioroute.exynos9810 \
     libtinyalsa.exynos9810 \
+    libbt-vendor \
     libengmode_client \
     libkeymaster_helper \
     libril_sem \
